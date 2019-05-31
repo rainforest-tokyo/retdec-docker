@@ -1,5 +1,5 @@
-# ghidra-docker
-Ghidra
+# retdec-docker
+retdec
 
 Dockerの作成・起動
 
